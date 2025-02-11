@@ -1,10 +1,10 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "obj_player",
+  "name": "obj_movingBlock",
   "spriteId": {
-    "name": "spr_player",
-    "path": "sprites/spr_player/spr_player.yy",
+    "name": "spr_movingBlock",
+    "path": "sprites/spr_movingBlock/spr_movingBlock.yy",
   },
   "solid": false,
   "visible": true,
